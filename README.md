@@ -1,2 +1,2 @@
-# my_project1
+# My_project1
 This is demo project for beginner.
